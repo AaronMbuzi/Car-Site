@@ -5,3 +5,5 @@ The platform has been deployed, here is a link to the site:
 https://orange-meadow-0ed756810.4.azurestaticapps.net/
 
 If you would like to use this site and customize it for your business, feel free to let me know.
+
+Backend still being worked on.
